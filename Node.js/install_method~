@@ -1,0 +1,10 @@
+1. tar xzvf node-v4.6.1.tar.gz // 解压
+
+2. cd node-v4.6.1 // 进入到解压后的文件夹
+
+3. ./configure
+
+4. make
+
+5. make install // 要用管理员权限，如sudo make install等
+
