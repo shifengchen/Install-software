@@ -2,7 +2,7 @@
 
 **用于管理node的版本工具，可用来升级node**
 
-**https://github.com/creationix/nvm  // 可以自己看 README.markdown **
+> https://github.com/creationix/nvm  // 可以自己看 README.markdown
 
 ## 安装
 
