@@ -32,6 +32,7 @@ npm config get registry
 ``` bash
 # 管理员权限下
 npm install npm -g
+```
 
 
 ## 升级node.js
